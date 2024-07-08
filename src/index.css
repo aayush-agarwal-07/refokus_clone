@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.marquee::-webkit-scrollbar{
+  display:none;
+}
+
+.stripes::-webkit-scrollbar{
+  display:none;
+}
+
+body{
+  background-color: #000000;
+}
