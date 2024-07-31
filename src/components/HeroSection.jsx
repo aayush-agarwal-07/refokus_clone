@@ -81,7 +81,7 @@ function HeroSection() {
   });
 
   return (
-    <div className="w-full h-[85%] mt-[15%]">
+    <div className="w-full h-[55vh] mt-[15%]">
       <div className="mx-[3%] h-full flex justify-between ">
         <h1 className="content-end mb-[3%] text-8xl leading-[77px] select-none">
           WE <br /> MAKE <br />
